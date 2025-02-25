@@ -4,7 +4,7 @@
 
 - brain network construction
 
-  - constructFBN_PC.py
+  - constructFBN_person.py
 
     Modules for constructing functional brain networks using Pearson's correlation coefficient (PC).
 
